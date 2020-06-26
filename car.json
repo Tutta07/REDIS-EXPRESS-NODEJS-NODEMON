@@ -1,0 +1,74 @@
+[
+    {
+        
+    "placa": "ABC",
+    "renavam": 123,
+    "debitos": [
+        {
+            "valor": 200,
+            "descricao": "Multa A"
+        },
+        {
+            "valor": 500,
+            "descricao": "Multa B"
+        }
+    ]
+},
+    {
+    "placa": "ABC",
+    "renavam": 456,
+    "debitos": [
+        {
+            "valor": 300,
+            "descricao": "Multa A"
+        },
+        {
+            "valor": 356,
+            "descricao": "Multa B"
+        }
+    ]
+},
+    {
+    "placa": "CDE",
+    "renavam": 123,
+    "debitos": [
+        {
+            "valor": 500,
+            "descricao": "Multa C"
+        },
+        {
+            "valor": 800,
+            "descricao": "Multa D"
+        }
+    ]
+},
+    {
+       "placa": "CDE",
+       "renavam": 456,
+       "debitos": [
+            {
+              "valor": 100,
+              "descricao": "Multa A"
+            },
+            {
+              "valor": 400,
+              "descricao": "Multa D"
+            }
+        ]
+    },
+    {
+        "placa": "FGH",
+        "renavam": 456,
+        "debitos": [
+            {
+              "valor": 100,
+               "descricao": "Multa A"
+            },
+            {
+              "valor": 400,
+              "descricao": "Multa D"
+            }
+        ]
+    }
+ 
+]
